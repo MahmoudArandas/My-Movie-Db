@@ -1,0 +1,21 @@
+:root{
+  --main-color:#fff;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
+
+
+body {
+
+  background-color: #131722 !important;
+  color: var(--main-color) !important;
+  
+}
+
+input{
+   margin-top: 5px;
+   margin-bottom: 5px;
+  background-color: transparent !important;
+  border: 1px solid white !important;
+  color: #fff !important;
+}

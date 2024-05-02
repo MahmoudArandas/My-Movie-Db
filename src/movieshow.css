@@ -1,0 +1,10 @@
+.col-md-2:hover {
+  margin-top: 10px;
+  opacity: 0.5;
+}
+.col-md-2 img {
+  border-radius: 10px;
+}
+.col-md-2 h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
